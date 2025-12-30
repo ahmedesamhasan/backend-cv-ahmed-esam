@@ -25,6 +25,7 @@ The CV is deployed automatically via GitHub Pages from the `main` branch.
 
 ## 📬 Contact
 
+-contact: 01128284800 - 01550700209
 - Email: iam.ahmedesam@gmail.com
 - GitHub: https://github.com/AhmedEsamHasan
 - LinkedIn: https://linkedin.com/in/iam-ahmed-esam
