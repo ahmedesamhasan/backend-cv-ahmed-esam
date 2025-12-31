@@ -1,63 +1,45 @@
-Ahmed Esam – Frontend Developer CV
+# Ahmed Esam – Frontend Developer CV
 
-This repository hosts my professional Frontend Developer CV as a static website, deployed using GitHub Pages.
+This repository hosts my professional Frontend Developer CV as a static website,
+deployed using GitHub Pages.
 
-🔗 Live CV
-
+## Live CV
 https://ahmedesamhasan.github.io/ahmed-esam---frontend-/
 
-📄 About
+## About
+- Frontend Developer specialized in React.js
+- Basic experience with Angular
+- ITI Graduate – Full Stack Web Development
+- Clean, ATS-friendly CV
+- Optimized for web and PDF
 
-Frontend Developer specialized in React.js
+## Files
+- index.html
+- README.md
 
-Solid foundation in Angular (Basics)
+## Contact
+- Phone: 01128284800 – 01550700209
+- Email: iam.ahmedesam@gmail.com
+- GitHub: https://github.com/AhmedEsamHasan
+- LinkedIn: https://linkedin.com/in/iam-ahmed-esam
 
-ITI Graduate – Full Stack Web Development (PHP / Laravel Track)
+## Live CV
+https://ahmedesamhasan.github.io/ahmed-esam---frontend-/
 
-Clean, minimal, ATS-friendly CV
+## About
+- Frontend Developer specialized in React.js
+- Basic experience with Angular
+- ITI Graduate – Full Stack Web Development
+- Clean, ATS-friendly CV
+- Optimized for web and PDF
 
-Optimized for web viewing and printing
+## Files
+- index.html
+- README.md
 
-Includes a downloadable PDF version
-
-🛠 Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-React.js
-
-Angular (Basic)
-
-📁 Files
-
-index.html – Live CV page
-
-Ahmed_Esam_Hasan_Frontend_CV.pdf – PDF version of the CV
-
-README.md – Project overview
-
-🚀 Deployment
-
-The CV is deployed automatically using GitHub Pages from the main branch.
-
-🖨 PDF Export
-
-Open the live CV link
-
-Click Export Final ATS PDF
-
-Save as A4 – 100% scale
-
-📬 Contact
-
-Phone: 01128284800 – 01550700209
-
-Email: iam.ahmedesam@gmail.com
-
-GitHub: https://github.com/AhmedEsamHasan
-
-LinkedIn: https://linkedin.com/in/iam-ahmed-esam
+## Contact
+- Phone: 01128284800 – 01550700209
+- Email: iam.ahmedesam@gmail.com
+- GitHub: https://github.com/AhmedEsamHasan
+- LinkedIn: https://linkedin.com/in/iam-ahmed-esam
+EOF
