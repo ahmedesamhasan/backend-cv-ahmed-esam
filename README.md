@@ -1,33 +1,63 @@
-# Ahmed Esam – Backend Developer CV
+Ahmed Esam – Frontend Developer CV
 
-This repository hosts my professional Backend Developer CV as a static website, deployed using GitHub Pages.
+This repository hosts my professional Frontend Developer CV as a static website, deployed using GitHub Pages.
 
-## 🔗 Live CV
+🔗 Live CV
 
-https://ahmedesamhasan.github.io/backend-cv-ahmed-esam/
+https://ahmedesamhasan.github.io/ahmed-esam---frontend-/
 
-## 📄 About
+📄 About
 
-- Backend Developer specialized in PHP (Laravel) and Node.js
-- Clean, ATS-friendly CV
-- Optimized for web viewing and printing
-- Includes a downloadable PDF version
+Frontend Developer specialized in React.js
 
-## 📁 Files
+Solid foundation in Angular (Basics)
 
-- `index.html` – Live CV page
-- `Ahmed_Esam_Hasan_Backend_CV.pdf` – PDF version of the CV
-- `README.md` – Project overview
+ITI Graduate – Full Stack Web Development (PHP / Laravel Track)
 
-## 🚀 Deployment
+Clean, minimal, ATS-friendly CV
 
-The CV is deployed automatically via GitHub Pages from the `main` branch.
+Optimized for web viewing and printing
 
-## 📬 Contact
+Includes a downloadable PDF version
 
--contact: 01128284800 - 01550700209
-- Email: iam.ahmedesam@gmail.com
-- GitHub: https://github.com/AhmedEsamHasan
-- LinkedIn: https://linkedin.com/in/iam-ahmed-esam
-# ahmed-esam---frontend-
-# ahmed-esam---frontend-
+🛠 Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+React.js
+
+Angular (Basic)
+
+📁 Files
+
+index.html – Live CV page
+
+Ahmed_Esam_Hasan_Frontend_CV.pdf – PDF version of the CV
+
+README.md – Project overview
+
+🚀 Deployment
+
+The CV is deployed automatically using GitHub Pages from the main branch.
+
+🖨 PDF Export
+
+Open the live CV link
+
+Click Export Final ATS PDF
+
+Save as A4 – 100% scale
+
+📬 Contact
+
+Phone: 01128284800 – 01550700209
+
+Email: iam.ahmedesam@gmail.com
+
+GitHub: https://github.com/AhmedEsamHasan
+
+LinkedIn: https://linkedin.com/in/iam-ahmed-esam
